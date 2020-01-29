@@ -1,0 +1,13 @@
+---
+title: Test
+author: jameson
+date: '2020-01-28'
+slug: test
+categories: []
+tags: ['yada']
+description: ''
+dropCap: no
+displayInMenu: no
+displayInList: yes
+---
+

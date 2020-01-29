@@ -1,0 +1,14 @@
+baseurl = "https://nwdatascience.com"
+title = "Northwest Data Science - NWDS"
+author = "Jameson Watts"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+[params]
+brand = "NWDS"
+description = "Northwest Data Science"
+bgimg = "img/bg9.jpg"
+homeimg = "img/home.jpg"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

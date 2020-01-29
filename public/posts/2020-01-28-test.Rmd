@@ -1,0 +1,22 @@
+---
+title: test
+author: jameson
+date: '2020-01-28'
+slug: test
+categories: []
+tags: []
+description: ''
+dropCap: yes
+displayInMenu: no
+displayInList: yes
+resources:
+  name: featuredImage
+  src: ''
+  params:
+    description: ''
+---
+
+```{r}
+# look ma!
+```
+

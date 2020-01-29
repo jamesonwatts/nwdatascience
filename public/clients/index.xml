@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clients - Hugo Themes - aether</title>
+    <link>/clients/</link>
+    <description>Recent content in Clients on Hugo Themes - aether</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/clients/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>/clients/test/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/clients/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
