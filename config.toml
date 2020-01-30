@@ -1,5 +1,5 @@
 baseurl = "https://nwdatascience.com"
-title = "Northwest Data Science - NWDS"
+title = "Northwest Data Science LLC - NWDS"
 author = "Jameson Watts"
 canonifyurls = true
 paginate = 3
@@ -7,8 +7,8 @@ theme = "aether"
 
 [params]
 brand = "NWDS"
-description = "Northwest Data Science"
-bgimg = "img/bg9.jpg"
+description = "Northwest Data Science LLC"
+bgimg = "img/bg11.jpg"
 homeimg = "img/home.jpg"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
